@@ -35,6 +35,12 @@ var myApp = new Framework7({
     	url: 'breakfast.html',
     	name: 'women',
   		},
+		
+		{
+		path: '/about/',
+    	url: 'about.html',
+    	name: 'about',
+  		},
 	]
     // ... other parameters
 });
